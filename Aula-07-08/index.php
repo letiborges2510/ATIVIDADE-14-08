@@ -20,7 +20,7 @@
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link active link-light" aria-current="page" href="#">Cadastrar</a>
+                                    <a class="nav-link active link-light" aria-current="page" href="index.php">Cadastrar</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link link-secondary" href="consultar.php">Consultar</a>
